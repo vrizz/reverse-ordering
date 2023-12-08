@@ -17,7 +17,7 @@ In our study, we introduce two models for predicting time-varying channels: Tran
 
 The channel dataset can be downloaded [here](https://drive.google.com/file/d/1gTkx6_WYjz9-9l5IUdxURpZ_4DNo4pqi/view?usp=sharing) as a `.zip` file.
 
-After you have downloaded and extracted the dataset, and you have put it in the same folder of the source-code.
+After you have downloaded and extracted the dataset, you have put it in the same folder of the source code.
 
 ## Usage
 
@@ -105,7 +105,7 @@ Testing l=14 and delta=6: SNR=20dB   NMSE=0.119
 ## Citation
 📚 If you are using this code and/or the provided dataset for your research, please cite
 
-```
+```bibtex
 @article{rizzello2024reverse,
     author={Rizzello, Valentina and B{\"o}ck, Benedikt and Joham, Michael and Utschick, Wolfgang},
     journal={IEEE Open Journal of Signal Processing}, 
