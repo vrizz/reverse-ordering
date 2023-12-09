@@ -23,15 +23,15 @@ After you have downloaded and extracted the dataset, you have put it in the same
 
 You can reproduce the results with these commands:
 
-```console
+```
 python main.py transformer-rpe
 ```
 or
-```console
+```
 python main.py seq2seq-attn-r
 ```
 
-You will see this on your console for the Transformer-RPE:
+You will see this on your terminal for the Transformer-RPE:
 <details>
   <summary>Click to expand test results</summary>
 
