@@ -109,10 +109,11 @@ Testing l=14 and delta=6: SNR=20dB   NMSE=0.119
 @article{rizzello2024reverse,
     author={Rizzello, Valentina and B{\"o}ck, Benedikt and Joham, Michael and Utschick, Wolfgang},
     journal={IEEE Open Journal of Signal Processing}, 
-    title={{Reverse Ordering Techniques for Attention-Based Channel Prediction}}, 
+    title={Reverse Ordering Techniques for Attention-Based Channel Prediction}, 
     year={2024},
-    volume={},
+    volume={5},
     number={},
-    pages={1-9},
+    pages={248-256},
+    doi={10.1109/OJSP.2023.3344024}
 }
 ```
