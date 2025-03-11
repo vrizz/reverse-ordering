@@ -1,7 +1,7 @@
 
 # Reverse Ordering Techniques for Attention-Based Channel Prediction
 
-🚀 Welcome to the repository for the paper "Reverse Ordering Techniques for Attention-Based Channel Prediction"! This repository contains the code to reproduce the main results of our research work.
+🚀 Welcome to the repository for the paper "Reverse Ordering Techniques for Attention-Based Channel Prediction"! This repository contains the code to reproduce the main results of our research work (see our [paper](https://ieeexplore.ieee.org/document/10363354) and [poster](https://drive.google.com/file/d/1ZnvyI0cnrio184LzqWHd4DsJHV6RagIu/view?usp=sharing) for details).
 
 ## Abstract
 
