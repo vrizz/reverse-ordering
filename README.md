@@ -1,7 +1,7 @@
 
 # Reverse Ordering Techniques for Attention-Based Channel Prediction
 
-🚀 Welcome to the repository for the paper "Reverse Ordering Techniques for Attention-Based Channel Prediction"! This repository contains the code to reproduce the main results of our research work (see our [paper](https://ieeexplore.ieee.org/document/10363354) and [poster](https://drive.google.com/file/d/1ZnvyI0cnrio184LzqWHd4DsJHV6RagIu/view?usp=sharing) for details).
+🚀 Welcome to the repository for the paper "Reverse Ordering Techniques for Attention-Based Channel Prediction"! This repository contains the code to reproduce the main results of our research work (see our [paper](https://ieeexplore.ieee.org/document/10363354) and [poster](https://huggingface.co/datasets/valerizz/reverse-ordering/resolve/main/icassp_2024-VARI.pdf) for details).
 
 ## Abstract
 
@@ -15,7 +15,7 @@ In our study, we introduce two models for predicting time-varying channels: Tran
 
 ## Dataset Download
 
-The channel dataset can be downloaded [here](https://drive.google.com/file/d/1gTkx6_WYjz9-9l5IUdxURpZ_4DNo4pqi/view?usp=sharing) as a `.zip` file.
+The channel dataset can be downloaded [here](https://huggingface.co/datasets/valerizz/reverse-ordering/blob/main/dataset_reverse_ordering.zip) as a `.zip` file.
 
 After you have downloaded and extracted the dataset, you have put it in the same folder of the source code.
 
